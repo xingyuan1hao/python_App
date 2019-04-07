@@ -1,3 +1,5 @@
+
+//修改添加和删除元素
 motorcycles = ['honda', 'yamaha', 'suzuki', 'ducati'] 
 print(motorcycles)
 
