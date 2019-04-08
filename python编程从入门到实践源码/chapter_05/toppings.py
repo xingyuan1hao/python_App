@@ -1,3 +1,4 @@
+//if 条件语句--检检查查特特定定值值是是否否包包含含在在列列表表中
 available_toppings = ['mushrooms', 'olives', 'green peppers',
                       'pepperoni', 'pineapple', 'extra cheese']
 
