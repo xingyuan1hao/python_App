@@ -1,3 +1,4 @@
+//字典使用
 alien_0 = {'x_position': 0, 'y_position': 25, 'speed': 'medium'}
 print("Original position: " + str(alien_0['x_position']))
 
