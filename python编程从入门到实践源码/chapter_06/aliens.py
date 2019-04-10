@@ -1,4 +1,5 @@
 # Make an empty list for storing aliens.
+#字典嵌套
 aliens = []
 
 # Make 30 green aliens.
