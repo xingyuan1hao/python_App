@@ -1,3 +1,4 @@
+#使用while 循环来处理列表和字典
 # Start out with some users that need to be verified,
 #  and an empty list to hold confirmed users.
 unconfirmed_users = ['alice', 'brian', 'candace']
