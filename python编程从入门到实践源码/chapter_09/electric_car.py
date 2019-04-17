@@ -1,3 +1,4 @@
+#继承
 """A set of classes that can be used to represent electric cars."""
 
 from car import Car
