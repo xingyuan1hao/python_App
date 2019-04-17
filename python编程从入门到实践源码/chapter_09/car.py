@@ -1,3 +1,4 @@
+#定义类，初始化默认值
 """A class that can be used to represent a car."""
 
 class Car():
