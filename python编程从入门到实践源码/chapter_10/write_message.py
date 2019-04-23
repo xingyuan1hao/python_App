@@ -1,3 +1,4 @@
+#写入文件
 filename = 'programming.txt'
 
 with open(filename, 'a') as file_object:
