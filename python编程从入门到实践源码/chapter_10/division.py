@@ -1,3 +1,4 @@
+#异常判断
 print("Give me two numbers, and I'll divide them.")
 print("Enter 'q' to quit.")
 
