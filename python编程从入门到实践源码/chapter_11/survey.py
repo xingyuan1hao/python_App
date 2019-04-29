@@ -1,3 +1,4 @@
+#测试的类
 class AnonymousSurvey():
     """Collect anonymous answers to a survey question."""
     
