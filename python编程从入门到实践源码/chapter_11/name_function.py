@@ -1,3 +1,4 @@
+#接受名和姓并返回整洁的姓名
 def get_formatted_name(first, last, middle=''):
     """Generate a neatly-formatted full name."""
     if middle:
