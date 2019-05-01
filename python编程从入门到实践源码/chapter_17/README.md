@@ -1,5 +1,9 @@
 Chapter 17
 #使用API调用请求数据
+#安装request
+#处理API响应
+#处理响应字典
+#Hacker News api
 ===
 
 Updates
